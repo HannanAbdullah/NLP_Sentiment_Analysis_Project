@@ -11,10 +11,9 @@ Also each row corresponds to a customer review, and includes the variables:
 The basic goal in this project is to predict whether customers recommend the product they purchased using the information in their *Review Text*.
 Especially, it should be noted that the expectation in this project is to use only the "Review Text" variable and neglect the other ones.
 Of course, if you want, you can work on other variables individually.
----
+
 
 ## The features in the given dataset are:
-
 -<b>Clothing ID:</b> Integer Categorical variable that refers to the specific piece being reviewed.
 -<b>Age:</b> Positive Integer variable of the reviewers age.
 -<b>Age:</b> Positive Integer variable of the reviewers age.
