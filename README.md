@@ -75,9 +75,7 @@ The repository includes a Jupyter notebook which you can run on your local machi
 
 ## Results 🪄
 ![Result](Result.png)
-<p>In this project, sentiment analysis was employed to assess product recommendations. A variety of machine learning (ML) algorithms were utilized to enhance prediction accuracy, and a deep learning (DL) algorithm was incorporated for comparative analysis with traditional machine learning models.
-
-Upon comparing the models, it is evident that the DL and BERT algorithm outperformed the ML algorithms, exhibiting higher F1-score, recall, and AP values.</p>
+<p>The above image demonstrates that the DL and BERT algorithm outperformed the ML algorithms, exhibiting higher F1-score, recall, and AP values.</p>
 
 
 ## Acknowledgements
