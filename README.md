@@ -70,7 +70,7 @@ Also each row corresponds to a customer review, and includes the variables.</p>
 
   
 ## Run the project ⚙️
-The repository includes a Jupyter notebook which you can run on your local machine or use this <a href=""> Google Colab </a> link.
+The repository includes a Jupyter notebook which you can run on your local machine or use this <a href="https://colab.research.google.com/drive/196Y7UJrVY4FFaVWR9uo6vuj_xOiXsjHE?usp=sharing"> Google Colab </a> link.
 
 
 ## Results 🪄
